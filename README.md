@@ -2,9 +2,32 @@
 <img width="30%" src="./static//images/logo_neu.svg">
 
 # Huskyhub
+
+Huskyhub is an original pioneer program designed by the Silicon Valley Hackers Club(Current developed by Tianxiang) to support student life and foster a community for students at Northeastern University to join and engage in discussions.
 </div>
 
+### App Preview :
 
+<table width="100%"> 
+<tr>
+<td width="50%">      
+&nbsp; 
+<br>
+<p align="center">
+  Feed Home
+</p>
+<img src="./static/images/screenshot1.png">
+</td> 
+<td width="50%">
+<br>
+<p align="center">
+  Room Conversation Preview
+</p>
+<img src="./static/images/screenshot2.png">  
+</td>
+</table>
+
+# Start The Project
 
 --> Move into the directory where we have the project files : 
 ```bash
@@ -49,25 +72,6 @@ python manage.py runserver
 
 #
 
-### App Preview :
 
-<table width="100%"> 
-<tr>
-<td width="50%">      
-&nbsp; 
-<br>
-<p align="center">
-  Feed Home
-</p>
-<img src="https://user-images.githubusercontent.com/72341453/134747262-0a92233d-8010-40f8-84c5-8d94895aac44.PNG">
-</td> 
-<td width="50%">
-<br>
-<p align="center">
-  Room Conversation Preview
-</p>
-<img src="https://user-images.githubusercontent.com/72341453/134747155-3ca5b55f-b064-4741-aeae-abe90bddf41e.PNG">  
-</td>
-</table>
 
 
