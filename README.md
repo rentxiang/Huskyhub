@@ -1,16 +1,10 @@
 <div align="center">
-<img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
+<img width="30%" src="./static//images/logo_neu.svg">
 
-# StudyBuddy
+# Huskyhub
 </div>
 
-### Cloning the repository
 
---> Clone the repository using the command below :
-```bash
-git clone https://github.com/divanov11/StudyBud.git
-
-```
 
 --> Move into the directory where we have the project files : 
 ```bash
@@ -32,7 +26,8 @@ virtualenv envname
 ```bash
 envname\scripts\activate
 
-```
+```mac
+source env/bin/activate
 
 --> Install the requirements :
 ```bash
