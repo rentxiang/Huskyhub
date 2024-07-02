@@ -3,7 +3,7 @@
 
 # Huskyhub
 
-Huskyhub is an original pioneer program designed by the Silicon Valley Hackers Club(Current developed by Tianxiang) to support student life and foster a community for students at Northeastern University to join and engage in discussions.
+Huskyhub is an original pioneer program designed by the Silicon Valley Hackers Club(Current developed by Dylan) to support student life and foster a community for students at Northeastern University to join and engage in discussions.
 </div>
 
 ### App Preview :
